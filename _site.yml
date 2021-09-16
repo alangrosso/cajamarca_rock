@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "DFT Support"
   left:
-    - text: "Home"
-      href: index.html
     - text: "Cajamarca Rock"
       href: Cajamarca_Rock_20202512.html
       
