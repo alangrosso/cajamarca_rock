@@ -3,9 +3,14 @@ output_dir: "."
 navbar:
   title: "DFT Support"
   left:
+    - text: "Contacto"
+      href: index.html
     - text: "Cajamarca Rock"
-      href: Cajamarca_Rock_20202512.html
+      href: cajamarca_rock.html
       
 output:
   html_document:
     theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.html
